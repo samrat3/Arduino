@@ -1,4 +1,4 @@
-// Project 54 - Using an External EEPROM
+// Using an External EEPROM
 #include <Wire.h>
 #define chip1 0x50
 unsigned int pointer;

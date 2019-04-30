@@ -1,4 +1,4 @@
-/* Project 60 – Building a Remote-Monitoring Station*/
+/* Building a Remote-Monitoring Station*/
 #include <SPI.h>
 #include <Ethernet.h>
 IPAddress ip(xxx,xxx,xxx,xxx); // Replace this with your project's IP address

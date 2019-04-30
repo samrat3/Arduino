@@ -1,4 +1,4 @@
-// Project 58 - Creating a Simple Digital Clock
+//  Creating a Simple Digital Clock
 #include "Wire.h"
 #define DS3232_I2C_ADDRESS 0x68
 #include <LiquidCrystal.h>

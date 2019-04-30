@@ -1,4 +1,4 @@
-// Project 53 – Creating an RFID Control with "Last Action" Memory
+// Creating an RFID Control with "Last Action" Memory
 #include <EEPROM.h>
 int data1 = 0;
 int ok = -1;

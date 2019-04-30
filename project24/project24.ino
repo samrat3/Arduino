@@ -1,4 +1,4 @@
-// Project 59 - Creating an RFID Time-Clock System
+// Creating an RFID Time-Clock System
 #include "Wire.h" // for RTC
 #define DS3232_I2C_ADDRESS 0x68
 #include "SD.h" // for SD card
